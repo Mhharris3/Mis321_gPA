@@ -31,6 +31,8 @@ body{
 .block{
     display: center;
     text-align: center;
+    width: 800px;
+    border-radius: 10px;
     margin: 0px auto 0px auto;
     background-color: darkgoldenrod;
     color: black;
