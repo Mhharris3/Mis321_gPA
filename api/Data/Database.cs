@@ -19,16 +19,16 @@ namespace Mis321_gPA.api.Data
                 this.Conn = conn;
                
         }
-                public string ConnString { get; set; }
+        public string ConnString { get; set; }
         public MySqlConnection Conn { get; set; }
 
         public Database()
         {
-            string server = Environment.GetEnvironmentVariable("");
-            string name = Environment.GetEnvironmentVariable("");
-            string port = Environment.GetEnvironmentVariable("");
-            string username = Environment.GetEnvironmentVariable("");
-            string password = Environment.GetEnvironmentVariable("");
+            string server = Environment.GetEnvironmentVariable("big_als_farmers_market_database_server");
+            string name = Environment.GetEnvironmentVariable("big_als_farmers_market_database_name");
+            string port = Environment.GetEnvironmentVariable("big_als_farmers_market_database_port");
+            string username = Environment.GetEnvironmentVariable("big_als_farmers_market_database_username");
+            string password = Environment.GetEnvironmentVariable("big_als_farmers_market_database_password");
             
             Console.WriteLine("got the datbase " + server);
 
