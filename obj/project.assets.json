@@ -896,19 +896,31 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "/Users/makayla/.nuget/packages/": {}
+=======
+    "/Users/clairewallerick/.nuget/packages/": {}
+>>>>>>> f0ffca67a0df30ed41c71bada3c42442c4b0ecc0
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "/Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/Mis321_gPA.csproj",
+=======
+      "projectUniqueName": "/Users/clairewallerick/Mis321_gPA/Mis321_gPA.csproj",
+>>>>>>> f0ffca67a0df30ed41c71bada3c42442c4b0ecc0
       "projectName": "Mis321_gPA",
       "projectPath": "/Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/Mis321_gPA.csproj",
       "packagesPath": "/Users/makayla/.nuget/packages/",
       "outputPath": "/Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
+<<<<<<< HEAD
         "/Users/makayla/.nuget/NuGet/NuGet.Config"
+=======
+        "/Users/clairewallerick/.nuget/NuGet/NuGet.Config"
+>>>>>>> f0ffca67a0df30ed41c71bada3c42442c4b0ecc0
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -962,7 +974,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+>>>>>>> f0ffca67a0df30ed41c71bada3c42442c4b0ecc0
       }
     }
   },

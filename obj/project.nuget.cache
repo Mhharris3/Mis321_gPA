@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "0exKbqRSn3wZTPaP3F8H1SjXS4rKyw9isAHAxch0yGmDtpLNHDtKJPXghlndgqwUMUijot3jDrJr0j9vXG+dWA==",
   "success": true,
   "projectFilePath": "/Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/Mis321_gPA.csproj",
+=======
+  "dgSpecHash": "IdUWsMLMi6EY1kAyX/4Yd1oLX4zMDQ0T1h19BPQVV1nPRMW42sBSsKswOVeh7fwOdmpVN72h9bzfhQEh38WIOA==",
+  "success": true,
+  "projectFilePath": "/Users/clairewallerick/Mis321_gPA/Mis321_gPA.csproj",
+>>>>>>> f0ffca67a0df30ed41c71bada3c42442c4b0ecc0
   "expectedPackageFiles": [
     "/Users/makayla/.nuget/packages/bouncycastle.netcore/1.8.5/bouncycastle.netcore.1.8.5.nupkg.sha512",
     "/Users/makayla/.nuget/packages/chocolatey/0.9.8.3/chocolatey.0.9.8.3.nupkg.sha512",
@@ -27,6 +33,7 @@
     "/Users/makayla/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512",
     "/Users/makayla/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.12/microsoft.netcore.app.host.osx-x64.5.0.12.nupkg.sha512"
   ],
+<<<<<<< HEAD
   "logs": [
     {
       "code": "Undefined",
@@ -35,4 +42,7 @@
       "message": "Problem reading the cache file /Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
+=======
+  "logs": []
+>>>>>>> f0ffca67a0df30ed41c71bada3c42442c4b0ecc0
 }
