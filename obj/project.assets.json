@@ -896,19 +896,31 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
+    "/Users/makayla/.nuget/packages/": {}
+=======
     "/Users/clairewallerick/.nuget/packages/": {}
+>>>>>>> f0ffca67a0df30ed41c71bada3c42442c4b0ecc0
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "/Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/Mis321_gPA.csproj",
+=======
       "projectUniqueName": "/Users/clairewallerick/Mis321_gPA/Mis321_gPA.csproj",
+>>>>>>> f0ffca67a0df30ed41c71bada3c42442c4b0ecc0
       "projectName": "Mis321_gPA",
-      "projectPath": "/Users/clairewallerick/Mis321_gPA/Mis321_gPA.csproj",
-      "packagesPath": "/Users/clairewallerick/.nuget/packages/",
-      "outputPath": "/Users/clairewallerick/Mis321_gPA/obj/",
+      "projectPath": "/Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/Mis321_gPA.csproj",
+      "packagesPath": "/Users/makayla/.nuget/packages/",
+      "outputPath": "/Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
+<<<<<<< HEAD
+        "/Users/makayla/.nuget/NuGet/NuGet.Config"
+=======
         "/Users/clairewallerick/.nuget/NuGet/NuGet.Config"
+>>>>>>> f0ffca67a0df30ed41c71bada3c42442c4b0ecc0
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -951,13 +963,31 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[5.0.12, 5.0.12]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+=======
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+>>>>>>> f0ffca67a0df30ed41c71bada3c42442c4b0ecc0
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
