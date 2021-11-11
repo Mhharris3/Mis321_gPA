@@ -102,3 +102,13 @@
 /Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/api/obj/Debug/net5.0/ref/api.dll
 /Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/api/obj/Debug/net5.0/api.pdb
 /Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/api/obj/Debug/net5.0/api.genruntimeconfig.cache
+/Users/clairewallerick/Mis321_gPA/api/obj/Debug/net5.0/api.csproj.AssemblyReference.cache
+/Users/clairewallerick/Mis321_gPA/api/obj/Debug/net5.0/api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clairewallerick/Mis321_gPA/api/obj/Debug/net5.0/api.AssemblyInfoInputs.cache
+/Users/clairewallerick/Mis321_gPA/api/obj/Debug/net5.0/api.AssemblyInfo.cs
+/Users/clairewallerick/Mis321_gPA/api/obj/Debug/net5.0/api.csproj.CoreCompileInputs.cache
+/Users/clairewallerick/Mis321_gPA/api/obj/Debug/net5.0/api.MvcApplicationPartsAssemblyInfo.cs
+/Users/clairewallerick/Mis321_gPA/api/obj/Debug/net5.0/api.MvcApplicationPartsAssemblyInfo.cache
+/Users/clairewallerick/Mis321_gPA/api/obj/Debug/net5.0/api.dll
+/Users/clairewallerick/Mis321_gPA/api/obj/Debug/net5.0/ref/api.dll
+/Users/clairewallerick/Mis321_gPA/api/obj/Debug/net5.0/api.pdb

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/api/api.csproj": {}
+    "/Users/clairewallerick/Mis321_gPA/api/api.csproj": {}
   },
   "projects": {
-    "/Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/api/api.csproj": {
+    "/Users/clairewallerick/Mis321_gPA/api/api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/api/api.csproj",
+        "projectUniqueName": "/Users/clairewallerick/Mis321_gPA/api/api.csproj",
         "projectName": "api",
-        "projectPath": "/Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/api/api.csproj",
-        "packagesPath": "/Users/makayla/.nuget/packages/",
-        "outputPath": "/Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/api/obj/",
+        "projectPath": "/Users/clairewallerick/Mis321_gPA/api/api.csproj",
+        "packagesPath": "/Users/clairewallerick/.nuget/packages/",
+        "outputPath": "/Users/clairewallerick/Mis321_gPA/api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/makayla/.nuget/NuGet/NuGet.Config"
+          "/Users/clairewallerick/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -45,6 +45,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "mysql.data": {
+              "target": "Package",
+              "version": "[8.0.27, )"
             }
           },
           "imports": [
@@ -65,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }
