@@ -1,37 +1,38 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "P+ARqUCshvLe50LjtYcx9ulCwKKBte9DiGlgDBE4p7ZU3jlJduq8pif1ux2DJIhiDIJoOM3HzRdgRyjgvMppzg==",
+  "dgSpecHash": "0exKbqRSn3wZTPaP3F8H1SjXS4rKyw9isAHAxch0yGmDtpLNHDtKJPXghlndgqwUMUijot3jDrJr0j9vXG+dWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\12567\\Desktop\\MIS-321\\Mis321_gPA\\Mis321_gPA.csproj",
-  "expectedPackageFiles": [],
-=======
-  "dgSpecHash": "fT6dMmPyN2Hmw1cIJ1/4H/ioaaAqqlC1Cr0VyReKwlsRJcjSAAEhuAdHzZrhLRUtwo/skviwVgSfkJ7EGvKQbw==",
-  "success": true,
-  "projectFilePath": "/Users/clairewallerick/Mis321_gPA/Mis321_gPA.csproj",
+  "projectFilePath": "/Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/Mis321_gPA.csproj",
   "expectedPackageFiles": [
-    "/Users/clairewallerick/.nuget/packages/bouncycastle.netcore/1.8.5/bouncycastle.netcore.1.8.5.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/chocolatey/0.9.8.3/chocolatey.0.9.8.3.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/google.protobuf/3.14.0/google.protobuf.3.14.0.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/k4os.compression.lz4/1.2.6/k4os.compression.lz4.1.2.6.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/k4os.compression.lz4.streams/1.2.6/k4os.compression.lz4.streams.1.2.6.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/k4os.hash.xxhash/1.0.6/k4os.hash.xxhash.1.0.6.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/mysql/5.5.14.1/mysql.5.5.14.1.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/mysql.data/8.0.27/mysql.data.8.0.27.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/system.configuration.configurationmanager/4.4.1/system.configuration.configurationmanager.4.4.1.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/system.security.cryptography.protecteddata/4.4.0/system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/system.security.permissions/4.7.0/system.security.permissions.4.7.0.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/system.text.encoding.codepages/4.4.0/system.text.encoding.codepages.4.4.0.nupkg.sha512",
-    "/Users/clairewallerick/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512"
+    "/Users/makayla/.nuget/packages/bouncycastle.netcore/1.8.5/bouncycastle.netcore.1.8.5.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/chocolatey/0.9.8.3/chocolatey.0.9.8.3.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/google.protobuf/3.14.0/google.protobuf.3.14.0.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/k4os.compression.lz4/1.2.6/k4os.compression.lz4.1.2.6.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/k4os.compression.lz4.streams/1.2.6/k4os.compression.lz4.streams.1.2.6.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/k4os.hash.xxhash/1.0.6/k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/mysql/5.5.14.1/mysql.5.5.14.1.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/mysql.data/8.0.27/mysql.data.8.0.27.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/system.configuration.configurationmanager/4.4.1/system.configuration.configurationmanager.4.4.1.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/system.security.cryptography.protecteddata/4.4.0/system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/system.security.permissions/4.7.0/system.security.permissions.4.7.0.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/system.text.encoding.codepages/4.4.0/system.text.encoding.codepages.4.4.0.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512",
+    "/Users/makayla/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.12/microsoft.netcore.app.host.osx-x64.5.0.12.nupkg.sha512"
   ],
->>>>>>> fbf1857b162f8d9e5a40d5a867579d9a7901f0b8
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

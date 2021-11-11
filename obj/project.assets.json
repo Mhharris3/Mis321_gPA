@@ -1,10 +1,7 @@
 {
   "version": 3,
   "targets": {
-<<<<<<< HEAD
-    "net5.0": {}
-=======
-    ".NETCoreApp,Version=v3.1": {
+    "net5.0": {
       "BouncyCastle.NetCore/1.8.5": {
         "type": "package",
         "compile": {
@@ -113,14 +110,14 @@
           "System.Text.Encoding.CodePages": "4.4.0"
         },
         "compile": {
-          "lib/netstandard2.1/MySql.Data.dll": {},
-          "lib/netstandard2.1/Ubiety.Dns.Core.dll": {},
-          "lib/netstandard2.1/ZstdNet.dll": {}
+          "lib/net5.0/MySql.Data.dll": {},
+          "lib/net5.0/Ubiety.Dns.Core.dll": {},
+          "lib/net5.0/ZstdNet.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.1/MySql.Data.dll": {},
-          "lib/netstandard2.1/Ubiety.Dns.Core.dll": {},
-          "lib/netstandard2.1/ZstdNet.dll": {}
+          "lib/net5.0/MySql.Data.dll": {},
+          "lib/net5.0/Ubiety.Dns.Core.dll": {},
+          "lib/net5.0/ZstdNet.dll": {}
         }
       },
       "System.Buffers/4.5.1": {
@@ -891,46 +888,27 @@
         "version.txt"
       ]
     }
->>>>>>> fbf1857b162f8d9e5a40d5a867579d9a7901f0b8
   },
   "projectFileDependencyGroups": {
-<<<<<<< HEAD
-    "net5.0": []
-  },
-  "packageFolders": {
-    "C:\\Users\\12567\\.nuget\\packages\\": {}
-=======
-    ".NETCoreApp,Version=v3.1": [
+    "net5.0": [
       "mysql >= 5.5.14.1",
-      "mysql.data >= *"
+      "mysql.data >= 8.0.27"
     ]
   },
   "packageFolders": {
-    "/Users/clairewallerick/.nuget/packages/": {}
->>>>>>> fbf1857b162f8d9e5a40d5a867579d9a7901f0b8
+    "/Users/makayla/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\12567\\Desktop\\MIS-321\\Mis321_gPA\\Mis321_gPA.csproj",
+      "projectUniqueName": "/Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/Mis321_gPA.csproj",
       "projectName": "Mis321_gPA",
-      "projectPath": "C:\\Users\\12567\\Desktop\\MIS-321\\Mis321_gPA\\Mis321_gPA.csproj",
-      "packagesPath": "C:\\Users\\12567\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\12567\\Desktop\\MIS-321\\Mis321_gPA\\obj\\",
+      "projectPath": "/Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/Mis321_gPA.csproj",
+      "packagesPath": "/Users/makayla/.nuget/packages/",
+      "outputPath": "/Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\12567\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-      "projectUniqueName": "/Users/clairewallerick/Mis321_gPA/Mis321_gPA.csproj",
-      "projectName": "Mis321_gPA",
-      "projectPath": "/Users/clairewallerick/Mis321_gPA/Mis321_gPA.csproj",
-      "packagesPath": "/Users/clairewallerick/.nuget/packages/",
-      "outputPath": "/Users/clairewallerick/Mis321_gPA/obj/",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "/Users/clairewallerick/.nuget/NuGet/NuGet.Config"
->>>>>>> fbf1857b162f8d9e5a40d5a867579d9a7901f0b8
+        "/Users/makayla/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -951,11 +929,8 @@
       }
     },
     "frameworks": {
-<<<<<<< HEAD
       "net5.0": {
         "targetAlias": "net5.0",
-=======
-      "netcoreapp3.1": {
         "dependencies": {
           "mysql": {
             "target": "Package",
@@ -963,10 +938,9 @@
           },
           "mysql.data": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "[8.0.27, )"
           }
         },
->>>>>>> fbf1857b162f8d9e5a40d5a867579d9a7901f0b8
         "imports": [
           "net461",
           "net462",
@@ -977,17 +951,27 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[5.0.12, 5.0.12]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.405/RuntimeIdentifierGraph.json"
->>>>>>> fbf1857b162f8d9e5a40d5a867579d9a7901f0b8
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/makayla/Downloads/Documents/Source/Repos/mis321/Mis321_gPA/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
