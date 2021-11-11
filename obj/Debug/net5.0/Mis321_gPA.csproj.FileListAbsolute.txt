@@ -1,5 +1,5 @@
-C:\Users\12567\Desktop\MIS-321\Mis321_gPA\obj\Debug\net5.0\Mis321_gPA.csproj.AssemblyReference.cache
-C:\Users\12567\Desktop\MIS-321\Mis321_gPA\obj\Debug\net5.0\Mis321_gPA.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\12567\Desktop\MIS-321\Mis321_gPA\obj\Debug\net5.0\Mis321_gPA.AssemblyInfoInputs.cache
-C:\Users\12567\Desktop\MIS-321\Mis321_gPA\obj\Debug\net5.0\Mis321_gPA.AssemblyInfo.cs
-C:\Users\12567\Desktop\MIS-321\Mis321_gPA\obj\Debug\net5.0\Mis321_gPA.csproj.CoreCompileInputs.cache
+/Users/clairewallerick/Mis321_gPA/obj/Debug/net5.0/Mis321_gPA.csproj.AssemblyReference.cache
+/Users/clairewallerick/Mis321_gPA/obj/Debug/net5.0/Mis321_gPA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clairewallerick/Mis321_gPA/obj/Debug/net5.0/Mis321_gPA.AssemblyInfoInputs.cache
+/Users/clairewallerick/Mis321_gPA/obj/Debug/net5.0/Mis321_gPA.AssemblyInfo.cs
+/Users/clairewallerick/Mis321_gPA/obj/Debug/net5.0/Mis321_gPA.csproj.CoreCompileInputs.cache
